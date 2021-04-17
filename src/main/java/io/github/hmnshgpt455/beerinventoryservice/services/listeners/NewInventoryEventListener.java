@@ -1,4 +1,4 @@
-package io.github.hmnshgpt455.beerinventoryservice.services.brewing;
+package io.github.hmnshgpt455.beerinventoryservice.services.listeners;
 
 import io.github.hmnshgpt455.beerinventoryservice.config.JmsConfig;
 import io.github.hmnshgpt455.brewery.events.InventoryEvent;

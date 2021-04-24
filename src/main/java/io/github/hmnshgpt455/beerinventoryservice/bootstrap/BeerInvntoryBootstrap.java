@@ -1,7 +1,7 @@
 package io.github.hmnshgpt455.beerinventoryservice.bootstrap;
 
-import io.github.hmnshgpt455.beerinventoryservice.repositories.BeerInventoryRepository;
 import io.github.hmnshgpt455.beerinventoryservice.domain.BeerInventory;
+import io.github.hmnshgpt455.beerinventoryservice.repositories.BeerInventoryRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
